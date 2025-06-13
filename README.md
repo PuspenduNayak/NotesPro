@@ -39,7 +39,7 @@
 ---
 
 ## 📁 Project Structure (Simplified)
-
+```
 NotesPro/
 │
 └── app/
@@ -59,7 +59,7 @@ NotesPro/
     ├── drawable/ (Assets)
     └── values*/ (Themes & Strings)
 
-
+```
 
 ---
 
