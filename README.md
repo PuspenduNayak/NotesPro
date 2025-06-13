@@ -18,13 +18,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Login Screen | Sign Up | Notes List | Note Details |
-|--------------|---------|------------|--------------|
-| ![Login](login.png) | ![Sign Up](sign_up.png) | ![Screenshot](screenshot.png.png) | ![Playstore Icon](ic_launcher-playstore.png) |
-
-
 ## 📸 App Screenshot
 
 ![Screenshot](https://github.com/PuspenduNayak/NotesPro/blob/master/Screenshot.png?raw=true)
@@ -49,36 +42,23 @@
 
 NotesPro/
 │
-├── app/
-│ └── src/
-│ ├── main/
-│ │ ├── java/com/example/notespro/
-│ │ │ ├── CreateAccountActivity.java
-│ │ │ ├── LoginActivity.java
-│ │ │ ├── MainActivity.java
-│ │ │ ├── Note.java
-│ │ │ ├── NoteAdapter.java
-│ │ │ ├── NoteDetailsActivity.java
-│ │ │ ├── SplashActivity.java
-│ │ │ └── Utility.java
-│ │ └── res/
-│ │ ├── layout/ (UI XMLs)
-│ │ ├── drawable/ (Assets)
-│ │ └── values*/ (Themes & Strings)
-│ ├── AndroidManifest.xml
-│
-├── google-services.json
-├── proguard-rules.pro
-├── build.gradle.kts
-├── settings.gradle.kts
-├── gradle/
-│ └── wrapper/
-├── libs.versions.toml
-├── login.png
-├── sign_up.png
-├── note_pro_icon.png
-├── screenshot.png.png
-└── README.md
+└── app/
+  └── src/
+  └── main/
+    ├── java/com/example/notespro/
+    │ ├── CreateAccountActivity.java
+    │ ├── LoginActivity.java
+    │ ├── MainActivity.java
+    │ ├── Note.java
+    │ ├── NoteAdapter.java
+    │ ├── NoteDetailsActivity.java
+    │ ├── SplashActivity.java
+    │ └── Utility.java
+    └── res/
+    ├── layout/ (UI XMLs)
+    ├── drawable/ (Assets)
+    └── values*/ (Themes & Strings)
+
 
 
 ---
