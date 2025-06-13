@@ -18,8 +18,8 @@
         android:textColor="@color/white"
         android:gravity="center"
         android:textStyle="bold"
-        android:drawableRight="drawable/baseline_done_all_24"
-        android:drawablePadding="15dp"/>
+        android:drawablePadding="15dp"
+        app:drawableRightCompat="@drawable/baseline_done_all_24" />
     <ProgressBar
         android:layout_width="24dp"
         android:layout_height="24dp"
